@@ -62,13 +62,30 @@ body {
   font-size: 12px;
 }
 
+.first-area {
+  background-image: url("../img/header2.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding: 13.5% 0;
+}
+
+.first-area h1 {
+  margin: 0;
+}
+
+.first-area p {
+  margin-bottom: 0;
+  font-size: 26px;
+}
+
 .second {
   background-image: url("../img/header2.jpg");
   background-position: center center;
   background-size: 100% 100%;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  margin-top: 50px;
   padding: 13.5% 0;
 }
 
